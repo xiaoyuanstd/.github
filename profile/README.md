@@ -8,4 +8,4 @@
 
 </p>
 
-This is the public github organization of (xiaoyuanstudio)[https://xiaoyuanstd.cn/].
+This is the public github organization of [xiaoyuanstudio](https://xiaoyuanstd.cn/).
