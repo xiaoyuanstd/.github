@@ -1,3 +1,3 @@
-# XiaoYuanStudio
+# XiaoYuan Studio
 
-We do stuffs.
+XiaoYuan Studio Official Organization, Technology🧑‍💻, Music🎶, Gaming🎮
